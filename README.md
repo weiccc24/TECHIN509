@@ -1,41 +1,45 @@
-# Created on 9.29.2025 for class demo
-# Food Options
+# Class Notes
 
-## Ramen
-### Ingredients
-- Noodles (usually wheat-based)
-- Broth (chicken, pork, miso, or soy-based)
-- Sliced pork (chashu)
-- Soft-boiled egg
-- Scallions
-- Bamboo shoots
-- Nori (seaweed)
-- Bean sprouts
-- Corn
-- Mushrooms
+# Motivating Example for Version Control
 
-## Beef Noodle Soup
-### Ingredients
-- Beef chuck or stew meat (cut into cubes)
-- Flour (for coating beef)
-- Cooking oil
-- Onion (diced)
-- Carrots (chopped)
-- Celery (chopped)
-- Garlic cloves (minced)
-- Beef broth
-- Worcestershire sauce
-- Bay leaves
-- Dried thyme and rosemary
-- Frozen peas
-- Egg noodles
-- Salt and pepper to taste
-- Optional: Mushrooms, parsley for garnish
+# Git: A Distributed Version Control System
 
+### Repository (Repo)
 
-### Some Basic Git Commands
-``` 
-git status
-git add
-git commit 
-```
+### The workflow of Git
+
+### Version control on your local device
+
+### Review Changes
+
+### Revert Changes
+
+### Branch
+
+### Merge Branches
+
+### Conflict Resolution
+
+# GitHub
+
+### Local vs Remote Repo
+
+### Connect Github with Local Repo
+
+### Git Push: Send Your Code to Remote Repo
+
+### Git Pull: Fetch Code from Remote and Merge to Local Files
+
+### Git Clone: Clone the Remote to Your Local
+
+### Pull Request (PR)
+
+### Normal Workflow using GitHub: Clone, Branch, Push, PR, Merge, Pull
+
+### Git Fork: Contribute to Other's Repo
+
+### Practice
+
+### Advanced Discussion: Git Rebase
+
+### Rebase vs Merge
